@@ -1,0 +1,3 @@
+libfov is a C library for calculating fields of view and lighting on low resolution rasters, suitable for roguelike games. In that screenshot below, imagine that green dot is your character in a computer game, and as you walk around (move between tiles on the grid), you want to know which tiles you can see and which tiles you cannot. libfov calculates exactly that.
+
+![http://libfov.googlecode.com/svn/wiki/screenshots/libfov-1.0.3-demo.png](http://libfov.googlecode.com/svn/wiki/screenshots/libfov-1.0.3-demo.png)
